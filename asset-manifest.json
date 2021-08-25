@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.0b70ce64.chunk.css",
-    "main.js": "/repository-name/static/js/main.160d0561.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.160d0561.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.b2ef0dda.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.b2ef0dda.js.map",
-    "static/js/2.65a9e045.chunk.js": "/repository-name/static/js/2.65a9e045.chunk.js",
-    "static/js/2.65a9e045.chunk.js.map": "/repository-name/static/js/2.65a9e045.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "static/css/main.0b70ce64.chunk.css.map": "/repository-name/static/css/main.0b70ce64.chunk.css.map",
-    "static/js/2.65a9e045.chunk.js.LICENSE.txt": "/repository-name/static/js/2.65a9e045.chunk.js.LICENSE.txt"
+    "main.css": "/tejasvi-mehra/react-todo-app.git/static/css/main.0b70ce64.chunk.css",
+    "main.js": "/tejasvi-mehra/react-todo-app.git/static/js/main.499e9ed5.chunk.js",
+    "main.js.map": "/tejasvi-mehra/react-todo-app.git/static/js/main.499e9ed5.chunk.js.map",
+    "runtime-main.js": "/tejasvi-mehra/react-todo-app.git/static/js/runtime-main.501a2f57.js",
+    "runtime-main.js.map": "/tejasvi-mehra/react-todo-app.git/static/js/runtime-main.501a2f57.js.map",
+    "static/js/2.540a37ed.chunk.js": "/tejasvi-mehra/react-todo-app.git/static/js/2.540a37ed.chunk.js",
+    "static/js/2.540a37ed.chunk.js.map": "/tejasvi-mehra/react-todo-app.git/static/js/2.540a37ed.chunk.js.map",
+    "index.html": "/tejasvi-mehra/react-todo-app.git/index.html",
+    "static/css/main.0b70ce64.chunk.css.map": "/tejasvi-mehra/react-todo-app.git/static/css/main.0b70ce64.chunk.css.map",
+    "static/js/2.540a37ed.chunk.js.LICENSE.txt": "/tejasvi-mehra/react-todo-app.git/static/js/2.540a37ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2ef0dda.js",
-    "static/js/2.65a9e045.chunk.js",
+    "static/js/runtime-main.501a2f57.js",
+    "static/js/2.540a37ed.chunk.js",
     "static/css/main.0b70ce64.chunk.css",
-    "static/js/main.160d0561.chunk.js"
+    "static/js/main.499e9ed5.chunk.js"
   ]
 }
